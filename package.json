@@ -1,0 +1,28 @@
+{
+  "name": "hackathon1",
+  "version": "1.0.0",
+  "description": "For hackathon 2018!",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "tbd"
+  },
+  "keywords": [
+    "CR"
+  ],
+  "author": "FIB",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^1.0.0",
+    "extract-loader": "^3.0.0",
+    "file-loader": "^2.0.0",
+    "node-sass": "^4.9.3",
+    "sass-loader": "^7.1.0",
+    "webpack": "^3.12.0",
+    "webpack-dev-server": "^2.11.3"
+  }
+}

@@ -8,7 +8,10 @@
         var data = new google.visualization.DataTable();
         data.addColumn('number', 'id');
         data.addColumn('string', 'Name');
-        data.addColumn('number', 'Salary');
+        data.addColumn('number', 'Click Rate (%)');
+        data.addColumn('number', 'App Tenure (%)');
+        data.addColumn('number', 'Subscription Tenure (%)');
+        data.addColumn('number', 'Loss (%)');
         // data.addColumn('boolean', 'Full Time Employee');
         data.addRows(tableData);
 

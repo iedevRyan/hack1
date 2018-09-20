@@ -1,34 +1,43 @@
 
 
-
+.title_container H1 {
+    margin: 20px 30px;
+}
 
 .table_container {
 
 }
 
 .main_table {
-    width: 90%;
-    margin: 10px 5%;
+    width: 80%;
+    margin: 10px 10%;
 
 
 
 
 }
 
+.btn-primary {
+
+    margin-left: 50px;
+}
 .title_container {
-    background-color: #ffff00;
-    min-height: 100px;
+    /*background-color: #ffff00;*/
+    min-height: 50px;
 }
 
 .parameter_container {
-    background-color: #ffa500;
+    /*background-color: #ffa500;*/
     min-height: 100px;
+}
+.parameter_container div {
+    margin: 25px;
 }
 .table_container {
 
 
     /* temp */
-    background-color: #ffff00
+    /*background-color: #ffff00*/
 
 }
 
